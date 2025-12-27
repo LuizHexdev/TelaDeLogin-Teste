@@ -1,5 +1,5 @@
 # TelaDeLogin-Teste
-Esse é o meu primeiro projeto como iniciante e fiz com auxílio. Ele foi feito com HTML e CSS.
+Esse é o meu primeiro projeto como iniciante em Web Design com HTML e CSS. Ele foi feito com HTML e CSS.
 
 Basicamente, esse projeto consiste em um design de uma tela de login de usuário feito com Html e Css puro. 
 
